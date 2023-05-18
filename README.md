@@ -1,2 +1,2 @@
 # Pong
-Created a Python implementation of pong using the Pygame library 
+Created a Python implementation of Pong using the Pygame library 
